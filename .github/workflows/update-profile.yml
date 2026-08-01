@@ -1,0 +1,12 @@
+name: Update Profile
+
+on:
+  workflow_dispatch:
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test
+        run: echo "Workflow created successfully!"

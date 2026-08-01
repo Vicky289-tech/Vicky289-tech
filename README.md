@@ -30,8 +30,10 @@ Python • Selenium • Java • SQL • Git • GitHub Actions • Jenkins • 
 
 ## 📫 Connect with Me
 
-LinkedIn: (Add your LinkedIn URL)
+LinkedIn: www.linkedin.com/in/
+vikrant-kadam-4a6126209
 
-Email: (Add your Email)
+
+Email:vikrant.nitin.kadam1@gmail.com
 
 </div>
